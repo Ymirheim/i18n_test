@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Cattleya Service -->
+<Window>
+	<Page>
+		<Text value="Welcome! "/>
+		<NextLine/>
+		<Text value="I'm a &lt;FREE color=0xFFffb400&gt;Cattleya Corporation&lt;/FREE&gt; employee. "/>
+		<NextLine/>
+		<Text value="How can I help you? "/>
+	</Page>
+</Window>

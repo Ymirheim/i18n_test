@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Default speech -->
+<Window>
+	<Page>
+		<Text value="Greetings!"/>
+	</Page>
+</Window>

@@ -1,0 +1,5 @@
+Id,Name,Icon,Grade,Description,Price
+1,Test Item 1,1001,0,Test Item 1 Description,23
+2,Test Item 2,1002,3,"Test Item 2
+Multiline
+Description",500
